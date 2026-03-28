@@ -1,0 +1,9 @@
+{
+	"name": "adf-netflix-sreehaas",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8453c7d7-4100-4565-891a-03f487894c11",
+		"tenantId": "e0c76ec9-4a4b-4f1b-b629-eb048c0952a2"
+	}
+}
